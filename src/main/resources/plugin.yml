@@ -1,0 +1,5 @@
+name: SonicArmor
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Gives Silence-trimmed armor a Warden sonic beam ability.
